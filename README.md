@@ -31,6 +31,27 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 ## webarchive:
 <img width="1046" height="825" alt="image" src="https://github.com/user-attachments/assets/04347c35-fd58-4bed-bbfe-6c3197ae23c7" />
 
+## nmap:
+
+
+## whatweb:
+
+
+## traceroute:
+
+
+## ping:
+
+
+## netcat:
+
+
+## UDP traceroute:
+
+
+## ICMP traceroute:
+
+
 
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
