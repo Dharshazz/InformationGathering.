@@ -32,8 +32,7 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 <img width="1046" height="825" alt="image" src="https://github.com/user-attachments/assets/04347c35-fd58-4bed-bbfe-6c3197ae23c7" />
 
 ## nmap:
-<img width="1056" height="532" alt="image" src="https://github.com/user-attachments/assets/4988e572-65c3-4e85-bd09-31e35ba9fec7" />
-
+<img width="1060" height="642" alt="image" src="https://github.com/user-attachments/assets/5dfe174e-0430-470a-84f5-d6f4a8cd6806" />
 
 ## whatweb:
 
