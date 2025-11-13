@@ -21,7 +21,15 @@ Investigate on the various categories of tools as follows:
 Open terminal/browser and try execute necessary commands/use url to perform information gathering
 
 
-## OUTPUT:
+# OUTPUT:
+## whois.com
+<img width="836" height="850" alt="image" src="https://github.com/user-attachments/assets/b4ac1fdb-3c64-4f81-9661-985bedece04b" />
+
+## iplocator:
+<img width="669" height="700" alt="image" src="https://github.com/user-attachments/assets/d1de37d0-08c6-4adf-b374-f786a9da7388" />
+
+## webarchive:
+<img width="1046" height="825" alt="image" src="https://github.com/user-attachments/assets/04347c35-fd58-4bed-bbfe-6c3197ae23c7" />
 
 
 ## RESULT:
